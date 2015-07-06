@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+When you initialize a repository, you create a repository and you take into account what files it currently has,
+and also a .get file is created containing information about the status of those files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is different in that it is the last chance before the files get commited.
+I'm assuming users have the options to remove files from the staging commit area but this hasn't been discussed yet.
+The value it adds is that it gives users a last chance to add/remove to the final commit.
