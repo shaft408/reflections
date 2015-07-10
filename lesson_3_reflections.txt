@@ -9,3 +9,7 @@ Describe the differences between forks, clones, and branches. When would you use
 I can branch my own personal repository from Master branch
 I can cone someones repository from git hub and make changes and push those changes back to the repository I cloned from
 Fork is git gubs version of clone. It happens on git hub, changes made in a forked repository cannot be pushed back to where the repository was forked from.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+I believe it makes merging up to git hub easier because you will be able to have a working copy of what's on git hub and work to resolve the conflicts localy
+before pushing up to git hub
