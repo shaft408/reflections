@@ -13,3 +13,7 @@ Fork is git gubs version of clone. It happens on git hub, changes made in a fork
 What is the benefit of having a copy of the last known state of the remote stored locally?
 I believe it makes merging up to git hub easier because you will be able to have a working copy of what's on git hub and work to resolve the conflicts localy
 before pushing up to git hub
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+One can email files back and forth. It would be a lot harder to track and merge changes I believe
+Git and GitHub simplify the process and everything is tracked.
