@@ -4,3 +4,8 @@ when you are ready to share your code with the world.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Pulling changes manually gives you ultimate flexibility. For example you are working on a project with other team members
 you don't want to pull in breaking changes. You want to pull in when you feel everything is right.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+I can branch my own personal repository from Master branch
+I can cone someones repository from git hub and make changes and push those changes back to the repository I cloned from
+Fork is git gubs version of clone. It happens on git hub, changes made in a forked repository cannot be pushed back to where the repository was forked from.
