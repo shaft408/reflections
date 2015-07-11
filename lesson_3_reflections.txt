@@ -17,3 +17,9 @@ before pushing up to git hub
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 One can email files back and forth. It would be a lot harder to track and merge changes I believe
 Git and GitHub simplify the process and everything is tracked.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+If you have breaking code that you want to test and have others evaluate prior to merging to the master branch, then creating
+your own branch which you can then request a pull into master for makes perfect sense.
+Benefits of pushing and pulling directly into master is that it's faster.
+Benefits of pushing and pulling and requesting pull's into master is that it makes it safer to colaborate and test new code with others.
